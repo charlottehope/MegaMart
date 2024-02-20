@@ -1,0 +1,42 @@
+.card-list {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.card-list .card-body {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+}
+.card-list h5 {
+  margin-top: auto;
+}
+.card-list img {
+  max-height: 450px;
+  width: auto;
+  object-fit: cover;
+  object-position: center;
+}
+.discount-percent {
+  color: grey;
+}
+
+@media (min-width: 768px) {
+  .card-list img {
+    max-height: 120px;
+    width: auto;
+  }
+}
+@media (min-width: 992px) {
+  .card-list img {
+    max-height: 170px;
+    width: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card-list img {
+    max-height: 220px;
+    width: auto;
+  }
+}
