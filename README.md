@@ -99,13 +99,13 @@ Your code is expected to be clean and well-formatted.
 5. Create a Layout component that has your Header and Footer.
 6. Create the other pages:
 
-6.1 ContactPage
+&nbsp;&nbsp;&nbsp;&nbsp;6.1 ContactPage
 
-6.2 ProductPage
+&nbsp;&nbsp;&nbsp;&nbsp;6.2 ProductPage
 
-6.3 CheckoutPage
+&nbsp;&nbsp;&nbsp;&nbsp;6.3 CheckoutPage
 
-6.4 CheckoutSuccessPage
+&nbsp;&nbsp;&nbsp;&nbsp;6.4 CheckoutSuccessPage
 
 7. Add React Router and route to each of the pages. The ProductPage page will be using a dynamic segment.
 8. Fetch the list of products on the Homepage and store this as a state.
@@ -119,15 +119,15 @@ Your code is expected to be clean and well-formatted.
 16. The CheckoutSuccessPage should display that the order was successful and clear the cart. There should be a link to go back to the store.
 17. On the ContactPage, create the following inputs with the following requirements.
 
-17.1 Full name (Minimum number of characters is 3, required)
+&nbsp;&nbsp;&nbsp;&nbsp;17.1 Full name (Minimum number of characters is 3, required)
 
-17.2 Subject (Minimum number of characters is 3, required)
+&nbsp;&nbsp;&nbsp;&nbsp;17.2 Subject (Minimum number of characters is 3, required)
 
-17.3 Email (Must be a valid email address, required)
+&nbsp;&nbsp;&nbsp;&nbsp;17.3 Email (Must be a valid email address, required)
 
-17.4 Body (Minimum number of characters is 3, required)
+&nbsp;&nbsp;&nbsp;&nbsp;17.4 Body (Minimum number of characters is 3, required)
 
-17.5 Submit button
+&nbsp;&nbsp;&nbsp;&nbsp;17.5 Submit button
 
 18. console.log the data from the form once validation requirements are met.
 19. Once your project is done, deploy it to Netlify.
