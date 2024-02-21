@@ -12,6 +12,8 @@ This is my submission for JS frameworks at Noroff. It's an eCom store, built wit
 - [Sass](https://sass-lang.com/)
 - [FortAwesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
 
+
+
 ## Screenshots
 ### Homepage
 <img width="1728" alt="Skjermbilde 2024-02-21 kl  15 48 33" src="https://github.com/charlottehope/MegaMart/assets/65370439/f98408cc-6c0a-4145-837e-cd94050dc3ee">
@@ -26,10 +28,12 @@ This is my submission for JS frameworks at Noroff. It's an eCom store, built wit
 <img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 12" src="https://github.com/charlottehope/MegaMart/assets/65370439/d7c519f6-03e8-4e0d-940c-347adcb08f66">
 
 ### Contact page
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 27" src="https://github.com/charlottehope/MegaMart/assets/65370439/c175c12d-71c9-4cca-ba4c-cdba0ae5bd53">
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 56 06" src="https://github.com/charlottehope/MegaMart/assets/65370439/e8489f3d-1058-487a-b6b6-2afc51988a2a">
 
 ### Order complete
 <img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 46" src="https://github.com/charlottehope/MegaMart/assets/65370439/1337b907-db5f-485b-a441-5a27966db983">
+
+
 
 
 ## Getting started
