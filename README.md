@@ -5,31 +5,32 @@
 This is my submission for JS frameworks at Noroff. It's an eCom store, built with React.
 - [Live site](https://megamart-shop.netlify.app/)
 
-Homepage
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 48 33" src="https://github.com/charlottehope/MegaMart/assets/65370439/f98408cc-6c0a-4145-837e-cd94050dc3ee">
-
-Product details
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 48 49" src="https://github.com/charlottehope/MegaMart/assets/65370439/47f2d0ac-230a-447d-8d93-20e91dd9c19a">
-
-Cart without products
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 52 39" src="https://github.com/charlottehope/MegaMart/assets/65370439/7bb94425-f768-4787-a866-11cf935b5d91">
-
-Cart with products
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 12" src="https://github.com/charlottehope/MegaMart/assets/65370439/d7c519f6-03e8-4e0d-940c-347adcb08f66">
-
-Contact page
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 27" src="https://github.com/charlottehope/MegaMart/assets/65370439/c175c12d-71c9-4cca-ba4c-cdba0ae5bd53">
-
-Order complete
-<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 46" src="https://github.com/charlottehope/MegaMart/assets/65370439/1337b907-db5f-485b-a441-5a27966db983">
-
-
 ## Built with
 
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
 - [Sass](https://sass-lang.com/)
 - [FortAwesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome)
+
+## Screenshots
+### Homepage
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 48 33" src="https://github.com/charlottehope/MegaMart/assets/65370439/f98408cc-6c0a-4145-837e-cd94050dc3ee">
+
+### Product details
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 48 49" src="https://github.com/charlottehope/MegaMart/assets/65370439/47f2d0ac-230a-447d-8d93-20e91dd9c19a">
+
+### Cart without products
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 52 39" src="https://github.com/charlottehope/MegaMart/assets/65370439/7bb94425-f768-4787-a866-11cf935b5d91">
+
+### Cart with products
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 12" src="https://github.com/charlottehope/MegaMart/assets/65370439/d7c519f6-03e8-4e0d-940c-347adcb08f66">
+
+### Contact page
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 27" src="https://github.com/charlottehope/MegaMart/assets/65370439/c175c12d-71c9-4cca-ba4c-cdba0ae5bd53">
+
+### Order complete
+<img width="1728" alt="Skjermbilde 2024-02-21 kl  15 49 46" src="https://github.com/charlottehope/MegaMart/assets/65370439/1337b907-db5f-485b-a441-5a27966db983">
+
 
 ## Getting started
 
